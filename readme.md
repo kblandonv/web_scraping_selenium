@@ -1,12 +1,14 @@
 # Web Scraping
 
 ## Table of Contents 
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
+- [Web Scraping](#web-scraping)
+  - [Table of Contents](#table-of-contents)
+  - [General Info](#general-info)
+  - [Technologies](#technologies)
 ***
 
 ## General Info
-Scripts to get information from Twitter and Olx web sites, using selenium and python. These scripts were developed by kblandonv!
+Scripts to get information from Twitter, Amazon and Olx web sites, using selenium and python. These scripts were developed by kblandonv!
 
 ## Technologies
 ***
