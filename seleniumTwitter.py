@@ -24,6 +24,7 @@ driver = webdriver.Edge('./msedgedriver.exe', options=opts)
 
 # Open twitter
 driver.get('https://twitter.com/login')
+driver.maximize_window()
 
 subject = 'FastApi'
 
